@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2734693368
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: sd_unitychan
+      Dependencies: {}
+    Info_1:
+      Name: pronama2
+      Dependencies: {}

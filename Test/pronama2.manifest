@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 3586162875
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d999cb51083f6b6ef36b842c926f37f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27d36dba52df673238ae043bf14d3029
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 153
+  Script: {instanceID: 0}
+Assets:
+- Assets/Data/Pronama/Pronama2.prefab
+Dependencies: []
